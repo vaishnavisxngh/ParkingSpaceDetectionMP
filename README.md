@@ -20,13 +20,13 @@ A real-time parking occupancy detection system using computer vision and deep le
 ## Project Structure
 ```
 parking_space_detection/
-├── module1_data_acquisition/     # Frame extraction from camera/video/dataset
-├── module2_preprocessing/        # Resize, normalize, CLAHE enhancement
-├── module3_slot_mapping/         # Interactive ROI definition + JSON config
-├── module4_deep_learning/        # YOLOv5s / ResNet18 inference (PyTorch)
-├── module5_classification/       # Threshold + temporal smoothing
-├── module6_visualization_logging/ # Overlay rendering + CSV/JSON logging
-├── main.py                       # Full pipeline entry point
+├── module1_data_acquisition/     
+├── module2_preprocessing/     
+├── module3_slot_mapping/       
+├── module4_deep_learning/      
+├── module5_classification/      
+├── module6_visualization_logging/ 
+├── main.py               
 └── requirements.txt
 ```
 
@@ -38,13 +38,10 @@ parking_space_detection/
 ```bash
 pip install -r requirements.txt
 
-# Define slots (one-time)
 python main.py --define_slots --ref_image data/reference_frame.jpg
 
-# Run on video
 python main.py --source video --path data/parking_lot.mp4
 
-# Run on dataset
 python main.py --source dataset --path data/PKLot/test/images --no_display
 ```
 
