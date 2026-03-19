@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Colab / Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Large files
+*.mp4
+*.avi
+*.zip
+*.pt
+*.pth
+
+# YOLOv5 runs
+runs/
+
+# OS
+.DS_Store

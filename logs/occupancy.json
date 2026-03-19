@@ -1,0 +1,4262 @@
+[
+  {
+    "timestamp": "2026-03-19 16:41:28.640",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:28.739",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:28.836",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:28.931",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.117
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:29.040",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:29.150",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:29.271",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:29.383",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:29.492",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:29.613",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:29.727",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:29.854",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.1217
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:29.946",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:30.047",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:30.135",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:30.225",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:30.315",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:30.403",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:30.491",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:30.579",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:30.666",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:30.752",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:30.837",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:30.918",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.1633
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:31.003",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:31.100",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:31.184",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:31.272",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:31.361",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:31.447",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:31.531",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:31.619",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:31.706",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:31.791",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.1611
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:31.874",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:31.953",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:32.031",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:32.124",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:32.205",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:32.286",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:32.365",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:32.445",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:32.523",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:32.605",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:32.700",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:32.790",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:32.875",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:32.964",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:33.046",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:33.146",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:33.230",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:33.327",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:33.411",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:33.492",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:33.580",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:33.667",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:33.753",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:33.836",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:33.928",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-03-19 16:41:34.018",
+    "slots": [
+      {
+        "id": 0,
+        "label": "L1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 1,
+        "label": "L2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 2,
+        "label": "L3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 3,
+        "label": "L4",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 4,
+        "label": "C1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 5,
+        "label": "C2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 6,
+        "label": "C3",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 7,
+        "label": "R1",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 8,
+        "label": "R2",
+        "status": "Vacant",
+        "confidence": 0.0
+      },
+      {
+        "id": 9,
+        "label": "R3",
+        "status": "Vacant",
+        "confidence": 0.0
+      }
+    ],
+    "summary": {
+      "total": 10,
+      "occupied": 0,
+      "vacant": 10,
+      "occupancy_rate": 0.0
+    }
+  }
+]
